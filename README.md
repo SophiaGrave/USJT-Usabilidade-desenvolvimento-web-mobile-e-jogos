@@ -1,5 +1,5 @@
 # USJT-Usabilidade-desenvolvimento-web-mobile-e-jogos
-Projeto A3 
+
 INTEGRANTES: 
 Sophia Grave - 824213875 
 Zahra Neqcha - 824221748
